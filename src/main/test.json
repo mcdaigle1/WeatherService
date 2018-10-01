@@ -1,0 +1,134 @@
+{
+  "context": {
+    "headers": {
+      "Content-Type": [
+        {
+          "type": "application",
+          "subtype": "json",
+          "parameters": {
+
+          },
+          "wildcardType": false,
+          "wildcardSubtype": false
+        }
+      ]
+    },
+    "entity": "{\"payload\":\"{\\\"detailedMessage\\\":\\\"java.lang.NullPointerException\\\",\\\"userFriendlyMessage\\\":\\\"Generalerrorwhenattemptingtogetweatherinfoforzipcode: 93101\\\"}\",\"status\":\"error\"}",
+    "entityType": "java.lang.String",
+    "entityAnnotations": [
+
+    ],
+    "entityStream": {
+      "closed": false,
+      "committed": false
+    },
+    "length": -1,
+    "language": null,
+    "location": null,
+    "entityTag": null,
+    "links": [
+
+    ],
+    "lastModified": null,
+    "date": null,
+    "stringHeaders": {
+      "Content-Type": [
+        "application/json"
+      ]
+    },
+    "mediaType": {
+      "type": "application",
+      "subtype": "json",
+      "parameters": {
+
+      },
+      "wildcardType": false,
+      "wildcardSubtype": false
+    },
+    "acceptableMediaTypes": [
+      {
+        "type": "*",
+        "subtype": "*",
+        "parameters": {
+
+        },
+        "quality": 1000,
+        "wildcardType": true,
+        "wildcardSubtype": true
+      }
+    ],
+    "allowedMethods": [
+
+    ],
+    "committed": false,
+    "entityClass": "java.lang.String",
+    "responseCookies": {
+
+    },
+    "acceptableLanguages": [
+      "*"
+    ],
+    "requestCookies": {
+
+    },
+    "lengthLong": -1
+  },
+  "status": 200,
+  "length": -1,
+  "language": null,
+  "location": null,
+  "statusInfo": "OK",
+  "entity": "{\"payload\":\"{\\\"detailedMessage\\\":\\\"java.lang.NullPointerException\\\",\\\"userFriendlyMessage\\\":\\\"Generalerrorwhenattemptingtogetweatherinfoforzipcode: 93101\\\"}\",\"status\":\"error\"}",
+  "entityTag": null,
+  "metadata": {
+    "Content-Type": [
+      {
+        "type": "application",
+        "subtype": "json",
+        "parameters": {
+
+        },
+        "wildcardType": false,
+        "wildcardSubtype": false
+      }
+    ]
+  },
+  "links": [
+
+  ],
+  "lastModified": null,
+  "date": null,
+  "stringHeaders": {
+    "Content-Type": [
+      "application/json"
+    ]
+  },
+  "mediaType": {
+    "type": "application",
+    "subtype": "json",
+    "parameters": {
+
+    },
+    "wildcardType": false,
+    "wildcardSubtype": false
+  },
+  "cookies": {
+
+  },
+  "allowedMethods": [
+
+  ],
+  "headers": {
+    "Content-Type": [
+      {
+        "type": "application",
+        "subtype": "json",
+        "parameters": {
+
+        },
+        "wildcardType": false,
+        "wildcardSubtype": false
+      }
+    ]
+  }
+}

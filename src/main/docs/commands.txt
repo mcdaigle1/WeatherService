@@ -1,0 +1,11 @@
+To Run:
+    mvn spring-boot:run
+
+To Test:
+    mvn clean test
+
+To Bust the weather data cache:
+    curl "http://localhost:8080/api/bustCache"
+
+Sample data query:
+    curl "http://localhost:8080/api/wind/93101"
