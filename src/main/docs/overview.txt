@@ -11,8 +11,11 @@ relates directly to the design goals for this project.
 
 To get, build and run:
 
+    git@github.com:mcdaigle1/WeatherService.git (or https://github.com/mcdaigle1/WeatherService.git)
 
     mvn clean package
+
+    java -jar target/weatherservice-0.0.1-SNAPSHOT.jar
 
 Here is a command reference:
 
@@ -23,8 +26,6 @@ Here is a command reference:
 
     To bust the cache:
         curl "http://localhost:8080/bustCache"
-
-
 
 Please let me know if you have any questions regarding the code.
 
