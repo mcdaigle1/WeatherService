@@ -3,6 +3,7 @@ This is a basic overview of the weatherservice project.  It is geared toward a r
 context that this project is an evaluation, and is:
 
 -- created in a relatively short time frame
+
 -- created solely by Mike Daigle without collaboration
 
 In some cases, I have leveraged existing code from older code I've used for my personal projects.  In every case,
@@ -31,6 +32,8 @@ Here is a command reference:
 Please let me know if you have any questions regarding the code.
 
 Mike Daigle
+
 mcdaigle1@gmail.com
+
 805-689-6264
 
