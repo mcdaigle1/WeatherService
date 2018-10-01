@@ -9,6 +9,11 @@ these files were originally created by me from scratch.  Note that some of these
 (like singleton patterns) that I have yet to refactor.  I have attempted to use more current patterns in the code that
 relates directly to the design goals for this project.
 
+To get, build and run:
+
+
+    mvn clean package
+
 Here is a command reference:
 
     To query for wind data:
